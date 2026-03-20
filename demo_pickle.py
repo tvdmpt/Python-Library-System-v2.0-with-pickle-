@@ -1,6 +1,6 @@
 import pickle
 import os
-from library import Book, User, Librarian
+from tvdmpt import Book, User, Librarian
 
 def demonstrate_binary_files():
     print("\nдемонстрация чтения бинарных файлов\n")
