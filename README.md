@@ -1,7 +1,8 @@
 # Python-Library-System-v2.0-with-pickle-
 Python Library v2.0 с использованием pickle вместо json и чтением бинарных файлов.
 
-что изменилось по сравнению с json-версией
+tvdmpt.py - код системы библиотеки
+что изменилось по сравнению с json-версией:
 
 класс storage полностью переписан под pickle:
 
